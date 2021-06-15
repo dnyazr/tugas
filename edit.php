@@ -27,11 +27,7 @@
 				<input type="text" name="email" value="<?php echo set_value('email',$user['email']); ?>" class="form-control">
 				<?php echo form_error('email'); ?>
 			</div>
-			<div class="form-group">
-				<div class="form-group">
-				<label>Username</label>
-				<input type="text" name="username" value="<?php echo set_value('username',$user['username']); ?>" class="form-control">
-				<?php echo form_error('username'); ?>
+
 			</div>
 			<div class="form-group">
 				<div class="form-group">
