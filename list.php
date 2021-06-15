@@ -10,6 +10,7 @@
 		<a href="#" class="navbar-brand">TUGAS CI_CRUD</a>
 	</div>
 </div>
+	<h1>Nyoba sadja</h1>
 <div class="container" style="padding-top: 10px;">
 
 	<div class="row">
