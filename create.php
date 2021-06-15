@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Buat Data</title>
+	<title>membuat Data</title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'assets/css/bootstrap.min.css';?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'assets/js/sweetalert2.all';?>">
 
@@ -40,7 +40,7 @@
 				<?php echo form_error('password'); ?>
 			</div>
 			<div class="form-group">
-				<button class="btn btn-primary">BUAT</button>
+				<button class="btn btn-danger">BUAT</button>
 				<a href="<?php echo base_url().'index.php/user/index'; ?>" class="btn btn-secondary">BATAL</a>
 			</div>
 		</div>
