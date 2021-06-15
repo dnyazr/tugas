@@ -13,7 +13,6 @@
 <div class="container" style="padding-top: 10px;">
 	<h3>EDIT PENGGUNA WIFI</h3>
 	<hr>
-	<form method="post" name="createUser" action="<?php echo base_url().'index.php/user/edit/'.$user['user_id'];?>">
 	<div class="row">
 		
 		<div class="col-md-6">
